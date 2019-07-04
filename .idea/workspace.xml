@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aae671a7-86f4-48bd-9fca-43803d177cad" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="groups" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groups" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aae671a7-86f4-48bd-9fca-43803d177cad" name="Default Changelist" comment="" />
+      <created>1562268374438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562268374438</updated>
+      <workItem from="1562268375934" duration="407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="407000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <layout>
+      <window_info id="Gulp" order="0" side_tool="true" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Changes" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32876712" />
+      <window_info anchor="bottom" id="Application Servers" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.26068377" />
+      <window_info anchor="right" id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Remote Host" order="6" />
+    </layout>
+  </component>
+</project>
