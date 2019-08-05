@@ -2,6 +2,7 @@
   "name": "groups",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://devpoint.co.za/mygroups/",
   "devDependencies": {
     "check-prop-types": "^1.1.2",
     "enzyme": "^3.10.0",

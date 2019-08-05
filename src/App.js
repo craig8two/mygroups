@@ -22,7 +22,7 @@ class App extends Component {
         isLoading: true,
       })
     try {
-      //const response = await fetch('http://devpoint.co.za/mygroups/public/data/mygroups.json', {mode: 'no-cors'});
+      //const response = await fetch('http://devpoint.co.za/mygroups/data/mygroups.json', {mode: 'no-cors'});
       const response = await fetch('http://localhost:3000/data/mygroups.json');
       this.setState({
         isLoading: false,
@@ -50,7 +50,7 @@ class App extends Component {
         return (
                 <div className="loading-container">
                     <h5>Loading Kins...</h5>
-                    <img className="load-logo" src="http://devpoint.co.za/mygroups/public/kin-load.png" alt="loading your kins"/>
+                    <img className="load-logo" src="http://devpoint.co.za/mygroups/kin-load.png" alt="loading your kins"/>
                 </div>
         )
       }
