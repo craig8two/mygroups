@@ -1,0 +1,306 @@
+{
+  "data": {
+    "groups": [
+      {
+        "id": "5d1f12b23d63860002546cb4",
+        "name": "Take an Alaskan Cruise that will change your life forever and ever. And a day",
+        "image": "",
+        "purpose": null,
+        "memberToMemberBalance": [
+          {
+            "amount": {
+              "formatted": "R31.64"
+            },
+            "fromMemberId": "5d1f12b23d63860002546cb6",
+            "toMemberId": "5d1f12b53d63860002546cc3"
+          },
+          {
+            "amount": {
+              "formatted": "R66.63"
+            },
+            "fromMemberId": "5d1f12bd3d63860002546d0d",
+            "toMemberId": "5d1f12b53d63860002546cc3"
+          },
+          {
+            "amount": {
+              "formatted": "R1.69"
+            },
+            "fromMemberId": "5d1f12bd3d63860002546d0d",
+            "toMemberId": "5d1f12b23d63860002546cb6"
+          }
+        ],
+        "updateDate": "2019-07-05T09:49:28.291+00:00",
+        "createDate": "2019-07-05T09:04:51.477+00:00",
+        "currentMember": {
+          "id": "5d1f12b53d63860002546cc3"
+        },
+        "members": [
+          {
+            "id": "5d1f12b53d63860002546cc3",
+            "name": "Steve McGee",
+            "image": "http://assets.dev.kin.business.s3.amazonaws.com/users/5be2c37464c9ff4dc985eaa6/5be2c37464c9ff4dc985eaa6-primary.jpg?uid=6dad4c30-09a2-447f-ba6f-5523c712da0a"
+          },
+          {
+            "id": "5d1f12b23d63860002546cb6",
+            "name": "Patrick McGee",
+            "image": ""
+          },
+          {
+            "id": "5d1f12bd3d63860002546d0d",
+            "name": "Carl - C",
+            "image": ""
+          }
+        ],
+        "summary": {
+          "totalEstimate": {
+            "formatted": "R1,750"
+          },
+          "totalSettlement": {
+            "formatted": "R16.70"
+          },
+          "totalSpent": {
+            "formatted": "R405.20"
+          }
+        },
+        "myActivities": [
+          {
+            "id": "5d1f1c858d7f960002dfd148",
+            "message": "You added a paid expense for Vhg."
+          },
+          {
+            "id": "5d1f1c858d7f960002dfd146",
+            "message": "You added a paid expense for Vhg."
+          }
+        ]
+      },
+      {
+        "id": "5d1f1a12f154de0002509ac4",
+        "name": "Make Pasta from Scratch",
+        "image": "http://assets.dev.kin.business.s3.amazonaws.com/groups/5d1f1a12f154de0002509ac4/5d1f1a12f154de0002509ac4-primary.jpg?uid=a8628d71-77bb-46b3-bf66-8679c818f5c9",
+        "purpose": null,
+        "memberToMemberBalance": [
+          {
+            "amount": {
+              "formatted": "R33.33"
+            },
+            "fromMemberId": "5d1f1a12f154de0002509ac6",
+            "toMemberId": "5d1f1a14f154de0002509ad4"
+          },
+          {
+            "amount": {
+              "formatted": "R66.63"
+            },
+            "fromMemberId": "5d1f1a1cf154de0002509b1d",
+            "toMemberId": "5d1f1a14f154de0002509ad4"
+          },
+          {
+            "amount": {
+              "formatted": "R0"
+            },
+            "fromMemberId": "5d1f1a12f154de0002509ac6",
+            "toMemberId": "5d1f1a1cf154de0002509b1d"
+          }
+        ],
+        "updateDate": "2019-07-05T09:49:28.295+00:00",
+        "createDate": "2019-07-05T09:36:18.933+00:00",
+        "currentMember": {
+          "id": "5d1f1a12f154de0002509ac6"
+        },
+        "members": [
+          {
+            "id": "5d1f1a12f154de034002509wac6",
+            "name": "Steve McGee",
+            "image": "http://assets.dev.kin.business.s3.amazonaws.com/users/5be2c37464c9ff4dc985eaa6/5be2c37464c9ff4dc985eaa6-primary.jpg?uid=6dad4c30-09a2-447f-ba6f-5523c712da0a"
+          },
+          {
+            "id": "5d1f1a1434f154dwe0002509ad4",
+            "name": "User B (Updated)- B",
+            "image": ""
+          },
+          {
+            "id": "5d1f134a1cf154de0ww002509b1d",
+            "name": "Carl - C",
+            "image": ""
+          },
+          {
+            "id": "5d1f1a12f154w45de00s02509ac6",
+            "name": "Steve McGee",
+            "image": "http://assets.dev.kin.business.s3.amazonaws.com/users/5be2c37464c9ff4dc985eaa6/5be2c37464c9ff4dc985eaa6-primary.jpg?uid=6dad4c30-09a2-447f-ba6f-5523c712da0a"
+          },
+          {
+            "id": "5d1f1a14f154de56e000250w9ad4",
+            "name": "User B (Updated)- B",
+            "image": ""
+          },
+          {
+            "id": "5d1f1a12f154de000we672509ac6",
+            "name": "Steve McGee",
+            "image": "http://assets.dev.kin.business.s3.amazonaws.com/users/5be2c37464c9ff4dc985eaa6/5be2c37464c9ff4dc985eaa6-primary.jpg?uid=6dad4c30-09a2-447f-ba6f-5523c712da0a"
+          },
+          {
+            "id": "5d1f1a14fw154de0002675r09ad4",
+            "name": "User B (Updated)- B",
+            "image": ""
+          },
+          {
+            "id": "5d1f1a1w2f154de0002578r09ac6",
+            "name": "Steve McGee",
+            "image": "http://assets.dev.kin.business.s3.amazonaws.com/users/5be2c37464c9ff4dc985eaa6/5be2c37464c9ff4dc985eaa6-primary.jpg?uid=6dad4c30-09a2-447f-ba6f-5523c712da0a"
+          },
+          {
+            "id": "5d1f1a1w4f154de00w56w02509ad4",
+            "name": "User B (Updated)- B",
+            "image": ""
+          }
+        ],
+        "summary": {
+          "totalEstimate": {
+            "formatted": "R1,750"
+          },
+          "totalSettlement": {
+            "formatted": "R16.70"
+          },
+          "totalSpent": {
+            "formatted": "R400.12"
+          }
+        },
+        "myActivities": [
+          {
+            "id": "5d1f1bd3b0fb3100022b3a46",
+            "message": "You changed the group image."
+          }
+        ]
+      },
+      {
+        "id": "5d1f12d28e93cf0002b390ca",
+        "name": "Go Stargazing",
+        "image": "http://assets.dev.kin.business.s3.amazonaws.com/groups/5d1f12d28e93cf0002b390ca/5d1f12d28e93cf0002b390ca-primary.jpg?uid=c4e2a6f4-e57b-4b41-a7f5-6dc4119f4da5",
+        "purpose": null,
+        "memberToMemberBalance": [],
+        "updateDate": "2019-07-05T09:49:28.294+00:00",
+        "createDate": "2019-07-05T09:05:23.254+00:00",
+        "currentMember": {
+          "id": "5d1f12d38e93cf0002b390d8"
+        },
+        "members": [
+          {
+            "id": "5d1f12d38e93cf0002b390d8",
+            "name": "Steve McGee",
+            "image": "http://assets.dev.kin.business.s3.amazonaws.com/users/5be2c37464c9ff4dc985eaa6/5be2c37464c9ff4dc985eaa6-primary.jpg?uid=6dad4c30-09a2-447f-ba6f-5523c712da0a"
+          },
+          {
+            "id": "5d1f12d28e93cf0002b390cc",
+            "name": "Carl - C",
+            "image": ""
+          }
+        ],
+        "summary": {
+          "totalEstimate": {
+            "formatted": "R200"
+          },
+          "totalSettlement": {
+            "formatted": "R0"
+          },
+          "totalSpent": {
+            "formatted": "R0"
+          }
+        },
+        "myActivities": [
+          {
+            "id": "5d1f1b2a8e93cf0002b39294",
+            "message": "You added future expense for Booking."
+          },
+          {
+            "id": "5d1f1ac5f154de0002509c68",
+            "message": "You changed the group image."
+          }
+        ]
+      },
+      {
+        "id": "5d1f12c98e93cf0002b3908f",
+        "name": "Buy a House",
+        "image": "http://assets.dev.kin.business.s3.amazonaws.com/groups/5d1f12c98e93cf0002b3908f/5d1f12c98e93cf0002b3908f-primary.jpg?uid=ed909e96-86b6-44a2-b0a9-bda8ca4ba19a",
+        "purpose": null,
+        "memberToMemberBalance": [],
+        "updateDate": "2019-07-05T09:49:28.293+00:00",
+        "createDate": "2019-07-05T09:05:14.826+00:00",
+        "currentMember": {
+          "id": "5d1f12cb8e93cf0002b3909d"
+        },
+        "members": [
+          {
+            "id": "5d1f12cb8e93cf0002b3909d",
+            "name": "Steve McGee",
+            "image": "http://assets.dev.kin.business.s3.amazonaws.com/users/5be2c37464c9ff4dc985eaa6/5be2c37464c9ff4dc985eaa6-primary.jpg?uid=6dad4c30-09a2-447f-ba6f-5523c712da0a"
+          },
+          {
+            "id": "5d1f12c98e93cf0002b39091",
+            "name": "Carl - C",
+            "image": ""
+          }
+        ],
+        "summary": {
+          "totalEstimate": {
+            "formatted": "R0"
+          },
+          "totalSettlement": {
+            "formatted": "R0"
+          },
+          "totalSpent": {
+            "formatted": "R0"
+          }
+        },
+        "myActivities": [
+          {
+            "id": "5d1f1aa88e93cf0002b3925b",
+            "message": "You changed the group image."
+          }
+        ]
+      },
+      {
+        "id": "5be2c3a482028000023a5bca",
+        "name": "new",
+        "image": "http://assets.dev.kin.business.s3.amazonaws.com/groups/5be2c3a482028000023a5bca/5be2c3a482028000023a5bca-primary.jpg",
+        "purpose": "change",
+        "memberToMemberBalance": [],
+        "updateDate": "2019-07-05T09:49:28.263+00:00",
+        "createDate": "2018-11-07T10:51:16.339+00:00",
+        "currentMember": {
+          "id": "5be2c3a482028000023a5bcb"
+        },
+        "members": [
+          {
+            "id": "5be2c3a482028000023a5bcb",
+            "name": "Steve McGee",
+            "image": "http://assets.dev.kin.business.s3.amazonaws.com/users/5be2c37464c9ff4dc985eaa6/5be2c37464c9ff4dc985eaa6-primary.jpg?uid=6dad4c30-09a2-447f-ba6f-5523c712da0a"
+          }
+        ],
+        "summary": {
+          "totalEstimate": {
+            "formatted": "R0"
+          },
+          "totalSettlement": {
+            "formatted": "R0"
+          },
+          "totalSpent": {
+            "formatted": "R555.55"
+          }
+        },
+        "myActivities": [
+          {
+            "id": "5d1f130a4287210002e7977b",
+            "message": "You changed your name to Steve McGee."
+          },
+          {
+            "id": "5c88c81344683300022b08e8",
+            "message": "You changed the group image."
+          },
+          {
+            "id": "5bf673a59990c40002258b53",
+            "message": "Welcome to your activity feed. Here is where you'll be notified of what's happening in the group. Be sure to check in often!"
+          }
+        ]
+      }
+    ]
+  }
+}

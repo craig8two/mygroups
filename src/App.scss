@@ -1,0 +1,135 @@
+
+.App {
+  font-family: Roboto;
+  color: #4a4a4a;
+}
+.load-logo {
+  animation: animated-spin infinite 3s linear;
+  height: 10vmin;
+  pointer-events: none;
+}
+@keyframes animated-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.group-container {
+  background-color: #f4f3f1;
+  margin: 0 auto;
+  max-width: 440px;
+  width: 100%;
+  padding: 20px;
+}
+.loading-container {
+  //background-color: #f4f3f1;
+  margin: 0 auto;
+  max-width: 440px;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+.group {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+  margin: 15px 0;
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow: rgba(192, 192, 192, 0.4) 0px 2px 2px;
+  display: flex;
+  flex-direction: row;
+}
+.group-image {
+  height: 110px;
+  width: 110px;
+  border-radius: 50%;
+  display: flex;
+}
+.default-group-image {
+  background-color: #f4f3f1;
+  height: 110px;
+  width: 110px;
+  border-radius: 50%;
+}
+.group-right {
+  padding-left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.group-name {
+  font-size: 21px;
+  font-weight: 600;
+  display: flex;
+}
+.member-image {
+  height: 30px;
+  width: auto;
+  border-radius: 50%;
+  float: left;
+  margin: 6px 2px;
+}
+.members {
+  display: flex;
+}
+.name-avatar {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  float: left;
+  text-align: center;
+  color: #FFF;
+  font-size: 15px;
+  font-weight: 600;
+  margin: 6px 2px;
+  span {
+    display: inline-block;
+    vertical-align: bottom;
+    padding-top: 6px;
+  }
+}
+.bg-gray {
+  background-color: #82818f;
+}
+.balance {
+  display: flex;
+  color: #888d90;
+  font-size: 18px;
+  font-weight: 500;
+  span {
+    color: #d06362;
+  }
+}
+.color-1 {
+  background-color: #d06363;
+}
+.color-2 {
+  background-color: #8bbfc0;
+}
+.color-0 {
+  background-color: #1c83c5;
+}
+.color-3 {
+  background-color: #ffa500;
+}
+.showMe {
+  display: flex;
+}
+.hideMe {
+  display: none;
+}
